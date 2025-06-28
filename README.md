@@ -1,4 +1,4 @@
-## Hi there 👋
+## 勉強中です 👋
 
 <!--
 **HarutoYamane/HarutoYamane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
